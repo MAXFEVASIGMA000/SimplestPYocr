@@ -1,7 +1,7 @@
 # SimplestPYTHONocr
 one file 24 line ocr in python
 
-Terminal OCR Reader
+# Terminal OCR Reader
 
 A simple Python OCR reader using Tesseract.
 
