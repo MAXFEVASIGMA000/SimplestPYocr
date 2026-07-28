@@ -21,5 +21,19 @@ A simple Python OCR reader using Tesseract.
 
 Install Tesseract:
 
-```bash
+```
 sudo pacman -S tesseract tesseract-data-eng
+```
+Install Python packages:
+```
+pip install -r requirements.txt
+```
+Usage
+
+Run:
+```
+python ocr.py image.png
+```
+ Example:
+```
+python ocr.py /home/user/Pictures/document.png
